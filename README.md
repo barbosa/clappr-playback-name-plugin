@@ -1,5 +1,7 @@
 # Clappr Playback's Name Plugin
 
+[![Join the chat at https://gitter.im/clappr/clappr-playback-name-plugin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/clappr/clappr-playback-name-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="https://raw.githubusercontent.com/barbosa/clappr-playback-name-plugin/master/screenshot.png"/>
 
 ## Usage
